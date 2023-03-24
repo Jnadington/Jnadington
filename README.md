@@ -10,4 +10,3 @@
 - 📫 How to reach me: jason.kh.choi@gmail.com for all business inquiries.
 - ⚡ Fun fact: Entrepreneurship is my passion!
 
-![PGB](babson-logo.png)
