@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![PGB](Pepperdine-Graz.jpeg)
 
 - 🔭 I’m currently working on ML/RL Trading Bot and AI Study Tool
 - 🌱 I’m currently learning ML, OpenAI API, and Google NLP
@@ -10,3 +10,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+![PGB](babson-logo.png)
